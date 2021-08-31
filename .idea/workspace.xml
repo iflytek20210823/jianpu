@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffea1b4f-e814-4746-b40b-eafb6643cdd1" name="Default Changelist" comment="py">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ffea1b4f-e814-4746-b40b-eafb6643cdd1" name="Default Changelist" comment="py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630303887492</updated>
       <workItem from="1630303889360" duration="10421000" />
-      <workItem from="1630373743721" duration="3893000" />
+      <workItem from="1630373743721" duration="4460000" />
     </task>
     <task id="LOCAL-00001" summary="py">
       <created>1630377762370</created>
